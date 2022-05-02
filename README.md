@@ -1,3 +1,7 @@
+This Project is Made in React which is a JavaScript Library.
+
+To start the Developement use NPM START.
+
 ### `npm start`
 
 Runs the app in the development mode.\
